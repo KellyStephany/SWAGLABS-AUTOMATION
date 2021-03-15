@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615832219505' stop='1615832219505'>
+    <name>Login feature testing</name>
+    <title>Login feature testing</title>
+    <test-cases>
+        <test-case start='1615832219505' status='passed' stop='1615832227325'>
+            <name>2. Login with a invalid user</name>
+            <title>2. Login with a invalid user</title>
+            <labels>
+                <label name='severity' value='undefined'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='User Agent' value='Chrome 89.0.4389.82 / Windows 10'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test has been passed.</message>
+                <stack-trace>no error</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,22 @@
+{
+  "name": "swaglabs-workshop",
+  "version": "1.0.0",
+  "description": "WIZELINE AUTOMATION WORKSHOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-all-chrome": "testcafe chrome  ./tests",
+    "test-chrome-login": "testcafe chrome  ./tests/Login.test.js",
+    "test-all-edge-legacy": "testcafe edge-legacy  ./tests",
+    "test-multiple-browsers": "testcafe chrome,edge-legacy  ./tests"
+  },
+  "author": "Kelly Paredes",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe-reporter-allure": "^1.0.5"
+  },
+  "devDependencies": {
+    "testcafe": "^1.12.0"
+  }
+}

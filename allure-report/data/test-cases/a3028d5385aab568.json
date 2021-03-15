@@ -1,0 +1,54 @@
+{
+  "uid" : "a3028d5385aab568",
+  "name" : "3. Logout from products page",
+  "fullName" : "Login feature testing.3. Logout from products page",
+  "historyId" : "5063adcc3818dc0f3995ab0de1b9e5d1",
+  "time" : {
+    "start" : 1615832231287,
+    "stop" : 1615832243057,
+    "duration" : 11770
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "3. Logout from products page"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 89.0.4389.82 / Windows 10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a3028d5385aab568.json",
+  "parameterValues" : [ "Chrome 89.0.4389.82 / Windows 10" ]
+}

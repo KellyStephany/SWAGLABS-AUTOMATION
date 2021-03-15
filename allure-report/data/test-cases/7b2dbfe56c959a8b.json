@@ -1,0 +1,54 @@
+{
+  "uid" : "7b2dbfe56c959a8b",
+  "name" : "1. Login with a valid user",
+  "fullName" : "Login feature testing.1. Login with a valid user",
+  "historyId" : "db4a3f5ed56882a7a841123f9a3d414a",
+  "time" : {
+    "start" : 1615832211672,
+    "stop" : 1615832226770,
+    "duration" : 15098
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "statusMessage" : "This test has been passed.",
+  "statusTrace" : "no error",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "undefined"
+  }, {
+    "name" : "suite",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testClass",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "testMethod",
+    "value" : "1. Login with a valid user"
+  }, {
+    "name" : "package",
+    "value" : "Login feature testing"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "User Agent",
+    "value" : "Chrome 89.0.4389.82 / Windows 10"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b2dbfe56c959a8b.json",
+  "parameterValues" : [ "Chrome 89.0.4389.82 / Windows 10" ]
+}

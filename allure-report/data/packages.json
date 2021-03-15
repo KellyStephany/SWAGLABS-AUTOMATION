@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Login feature testing",
+    "children" : [ {
+      "name" : "1. Login with a valid user",
+      "uid" : "7b2dbfe56c959a8b",
+      "parentUid" : "7d0c6ff3042e16c875fc0afdbc4c60e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615832211672,
+        "stop" : 1615832226770,
+        "duration" : 15098
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 89.0.4389.82 / Windows 10" ]
+    }, {
+      "name" : "2. Login with a invalid user",
+      "uid" : "66f81ab05b560878",
+      "parentUid" : "7d0c6ff3042e16c875fc0afdbc4c60e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615832219505,
+        "stop" : 1615832227325,
+        "duration" : 7820
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 89.0.4389.82 / Windows 10" ]
+    }, {
+      "name" : "3. Logout from products page",
+      "uid" : "a3028d5385aab568",
+      "parentUid" : "7d0c6ff3042e16c875fc0afdbc4c60e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1615832231287,
+        "stop" : 1615832243057,
+        "duration" : 11770
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Chrome 89.0.4389.82 / Windows 10" ]
+    } ],
+    "uid" : "7d0c6ff3042e16c875fc0afdbc4c60e9"
+  } ]
+}
